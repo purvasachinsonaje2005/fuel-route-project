@@ -167,15 +167,7 @@ The project demonstration includes:
 
 ---
 
----
 
-## Project Demonstration Video
-
-Loom Video Explanation:
-
-https://www.loom.com/share/86c959d128b3476faa8091115ef6330f
-
----
 
 ## Output Screenshots
 
